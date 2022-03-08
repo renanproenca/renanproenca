@@ -17,9 +17,9 @@
   ### Fique a vontade caso queira me contatar!
  
 <div> 
+ <a href="https://www.linkedin.com/in/renan-proen%C3%A7a-0aa6501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/sourenanproenca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "Mailto:renanef6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-proen%C3%A7a-0aa6501a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/renanproenca/renanproenca/blob/output/github-contribution-grid-snake.svg)
 
